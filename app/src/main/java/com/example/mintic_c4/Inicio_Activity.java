@@ -18,8 +18,7 @@ public class Inicio_Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_inicio);
-
-        //Animacion logo
+        //Animacion logo//
         Animation animation1 = AnimationUtils.loadAnimation(this,R.anim.despla_arriba);
 
         ImageView Logo_inicio = findViewById(R.id.Logo_inicio);
