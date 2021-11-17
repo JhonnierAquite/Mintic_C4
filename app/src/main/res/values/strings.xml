@@ -9,7 +9,7 @@
     <string name="PROPIETARIO">PROPIETARIO</string>
     <string name="DIRECCION">DIRECCIÓN</string>
     <string name="CONTACTO">CONTACTO</string>
-    <string name="X">X</string>
-    <string name="Y">Y</string>
-    <string name="Bienvenido">Bienvenido</string>
+    <string name="latitud">Latitud</string>
+    <string name="Longitud">Longitud</string>
+
 </resources>
