@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mintic_c4</string>
+    <string name="btn_Acceder">Acceder</string>
+    <string name="btn_Registro">Registro</string>
+    <string name="btn_Geolocalizacion">Geolocalización</string>
+    <string name="btn_Guardar">Guardar</string>
+    <string name="Geolocalizacion">Geolocalización</string>
+    <string name="ESTABLECIMIENTO">ESTABLECIMIENTO</string>
+    <string name="PROPIETARIO">PROPIETARIO</string>
+    <string name="DIRECCION">DIRECCIÓN</string>
+    <string name="CONTACTO">CONTACTO</string>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="Bienvenido">Bienvenido</string>
+</resources>
