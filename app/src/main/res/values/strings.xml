@@ -11,5 +11,14 @@
     <string name="CONTACTO">CONTACTO</string>
     <string name="latitud">Latitud</string>
     <string name="Longitud">Longitud</string>
+    <string name="tienda1">LORÉAL</string>
+    <string name="nombre1">Jose Enrique Artinieguas </string>
+    <string name="tienda2">Mercados modernos</string>
+    <string name="nombre2">Angelica Castillo </string>
+    <string name="tienda3">Papelería Jose</string>
+    <string name="nombre3">Alexander Buelvas </string>
+    <string name="tienda4">Jenos pizza</string>
+    <string name="nombre4">Erick Bustos </string>
+
 
 </resources>

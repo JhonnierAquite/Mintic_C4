@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
+            android:name=".Menu"
+            android:exported="true" />
+        <activity
             android:name=".Simulacion_Mapa_Activity"
             android:exported="true" />
         <activity
@@ -32,7 +35,6 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
     </application>
 
