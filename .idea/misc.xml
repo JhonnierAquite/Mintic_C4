@@ -8,6 +8,7 @@
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/drawable-v24/btn_geolocalizar.xml" value="0.1" />
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/drawable-v24/btn_guardar.xml" value="0.1" />
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/drawable-v24/btn_registro.xml" value="0.1" />
+        <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/drawable/btn_mapa.xml" value="0.2203125" />
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/drawable/btn_tienda.xml" value="0.2203125" />
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/drawable/despla_abajo.xml" value="0.2203125" />
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/drawable/despla_arriba.xml" value="0.2203125" />
@@ -19,7 +20,7 @@
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/layout/activity_listado_datos.xml" value="0.25" />
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/layout/activity_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/layout/activity_menu.xml" value="0.25" />
         <entry key="..\:/Users/Public/Documents/mintic_c4/app/src/main/res/layout/activity_simulacion_mapa.xml" value="0.25" />
       </map>
     </option>
